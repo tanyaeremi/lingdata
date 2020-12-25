@@ -41,7 +41,7 @@
 41	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#12.566#12.809
 42	завтра	завтра	ADV	_	Degree=Pos	_	_	_	words@ify1990m#@ify1990m#12.809#13.052
 43	в	в	ADP	_	_	_	_	_	words@ify1990m#@ify1990m#13.052#13.295
-44	нашем	наш	DET  _ Case=Loc|Gender=Masc|Number=Sing  _ _ _ words@ify1990m#@ify1990m#13.295#13.538
+44	нашем	наш	DET  _ Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@ify1990m#@ify1990m#13.295#13.538
 45	городе	город	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	words@ify1990m#@ify1990m#13.538#13.781
 46	начинается	начинаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@ify1990m#@ify1990m#13.781#14.024
 47	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#14.024#14.267
@@ -127,7 +127,7 @@
 127	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#35.035#35.285
 128	этот	этот	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ify1990m#@ify1990m#35.285#35.535
 129	асвальт	асвальт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@ify1990m#@ify1990m#35.535#35.785
-130	давайте	давайте	PART  _ _ _ _ _ words@ify1990m#@ify1990m#35.785#36.035
+130	давайте	давайте	PART	_	_	_	_	_	words@ify1990m#@ify1990m#35.785#36.035
 131	поменяем	поменять	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin|Voice=Act	_	_	_	words@ify1990m#@ify1990m#36.035#36.285
 132	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#36.285#36.535
 133	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#36.535#36.795
@@ -157,7 +157,7 @@
 157	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#41.536#41.733
 158	будет	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@ify1990m#@ify1990m#41.733#41.93
 159	очень	очень	ADV	_	Degree=Pos	_	_	_	words@ify1990m#@ify1990m#41.93#42.127
-160	неудобно	неудобнo	ADV	_	Degree=Pos  _ _ _ words@ify1990m#@ify1990m#42.127#42.324
+160	неудобно	неудобнo	ADV	_	Degree=Pos	_	_	_	words@ify1990m#@ify1990m#42.127#42.324
 161	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#42.324#42.521
 162	будут	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@ify1990m#@ify1990m#42.521#42.718
 163	пробки	пробка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@ify1990m#@ify1990m#42.718#42.915
@@ -167,7 +167,7 @@
 167	!	!	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#43.506#43.703
 168	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#43.703#43.9
 169	но	но	CCONJ	_	_	_	_	_	words@ify1990m#@ify1990m#43.9#44.097
-170	что	что	PRON	_  Case=Acc  _ _ _ words@ify1990m#@ify1990m#44.097#44.294
+170	что	что	PRON	_	Case=Acc	_	_	_	words@ify1990m#@ify1990m#44.097#44.294
 171	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	words@ify1990m#@ify1990m#44.294#44.491
 172	с	с	ADP	_	_	_	_	_	words@ify1990m#@ify1990m#44.491#44.688
 173	вами	вы	PRON	_	Case=Ins|Number=Plur|Person=2	_	_	_	words@ify1990m#@ify1990m#44.688#44.885
@@ -204,9 +204,9 @@
 204	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#52.077#52.275
 205	п...	п...	X	_	_	_	_	_	words@ify1990m#@ify1990m#52.275#52.473
 206	п...	п...	X	_	_	_	_	_	words@ify1990m#@ify1990m#52.473#52.671
-207	это	это	PRON  _ Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing _ _ _ words@ify1990m#@ify1990m#52.671#52.869
-208	это	это	PRON  _ Case=Nom|Gender=Neut|Number=Sing  _ _ _ words@ify1990m#@ify1990m#52.869#53.067
-209	это	это	PRON  _ Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing _ _ _ words@ify1990m#@ify1990m#53.067#53.265
+207	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ify1990m#@ify1990m#52.671#52.869
+208	это	это	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ify1990m#@ify1990m#52.869#53.067
+209	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ify1990m#@ify1990m#53.067#53.265
 210	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#53.265#53.463
 211	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@ify1990m#@ify1990m#53.463#53.661
 212	знаете	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ify1990m#@ify1990m#53.661#53.859
@@ -261,7 +261,7 @@
 261	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ify1990m#@ify1990m#66.173#66.391
 262	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@ify1990m#@ify1990m#66.391#66.609
 263	просто	просто	PART	_	_	_	_	_	words@ify1990m#@ify1990m#66.609#66.827
-264	оччень	очень	ADV	_	Degree=Pos _ _ _ words@ify1990m#@ify1990m#66.827#67.045
+264	оччень	очень	ADV	_	Degree=Pos	_	_	_	words@ify1990m#@ify1990m#66.827#67.045
 265	а	а	INTJ	_	_	_	_	_	words@ify1990m#@ify1990m#67.045#67.263
 266	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#67.263#67.481
 267	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#67.481#67.699
@@ -274,7 +274,7 @@
 274	как	как	SCONJ	_	_	_	_	_	words@ify1990m#@ify1990m#69.007#69.225
 275	ребенок	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ify1990m#@ify1990m#69.225#69.443
 276	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#69.443#69.661
-277	размыш... размыш...	X _ _ _ _ _ words@ify1990m#@ify1990m#69.661#69.879
+277	размыш... размыш...	X	_	_	_	_	_	words@ify1990m#@ify1990m#69.661#69.879
 278	рассуждаю	рассуждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ify1990m#@ify1990m#69.879#70.097
 279	но	но	CCONJ	_	_	_	_	_	words@ify1990m#@ify1990m#70.097#70.315
 280	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#70.315#70.533
