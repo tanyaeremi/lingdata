@@ -274,7 +274,7 @@
 274	как	как	SCONJ	_	_	_	_	_	words@ify1990m#@ify1990m#69.007#69.225
 275	ребенок	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@ify1990m#@ify1990m#69.225#69.443
 276	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#69.443#69.661
-277	размыш... размыш...	X	_	_	_	_	_	words@ify1990m#@ify1990m#69.661#69.879
+277	размыш...	размыш...	X	_	_	_	_	_	words@ify1990m#@ify1990m#69.661#69.879
 278	рассуждаю	рассуждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ify1990m#@ify1990m#69.879#70.097
 279	но	но	CCONJ	_	_	_	_	_	words@ify1990m#@ify1990m#70.097#70.315
 280	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#70.315#70.533
@@ -295,12 +295,12 @@
 295	то	то	SCONJ	_	_	_	_	_	words@ify1990m#@ify1990m#86.564#86.8
 296	что	что	SCONJ	_	_	_	_	_	words@ify1990m#@ify1990m#86.8#87.036
 297	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@ify1990m#@ify1990m#87.036#87.272
-298	щас	сейчас ADV	_	Degree=Pos	_	_	_	words@ify1990m#@ify1990m#87.272#87.508
+298	щас	сейчас	ADV	_	Degree=Pos	_	_	_	words@ify1990m#@ify1990m#87.272#87.508
 299	рассуждаете	рассуждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@ify1990m#@ify1990m#87.508#87.744
 300	с	с	ADP	_	_	_	_	_	words@ify1990m#@ify1990m#87.744#87.98
 301	точки	точка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	words@ify1990m#@ify1990m#87.98#88.216
 302	зрения	зрение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@ify1990m#@ify1990m#88.216#88.452
-303	социа... социа...	X	_	_	_	_	_	words@ify1990m#@ify1990m#88.452#88.688
+303	социа...	социа...	X	_	_	_	_	_	words@ify1990m#@ify1990m#88.452#88.688
 304	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#88.688#88.924
 305	социализма	социализм	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@ify1990m#@ify1990m#88.924#89.16
 306	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#89.16#89.396
@@ -1013,7 +1013,7 @@
 1013	интеллигенцию	интеллигенция	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@ify1990m#@ify1990m#317.491#317.72
 1014	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#317.72#317.949
 1015	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#317.949#318.178
-1016	щас	сейчас	ADV	_	Degree=Pos  _ _ _ words@ify1990m#@ify1990m#318.178#318.407
+1016	щас	сейчас	ADV	_	Degree=Pos	_	_	_	words@ify1990m#@ify1990m#318.178#318.407
 1017	брать	брать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@ify1990m#@ify1990m#318.407#318.636
 1018	это	это	DET	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@ify1990m#@ify1990m#318.636#318.865
 1019	/	/	PUNCT	_	_	_	_	_	words@ify1990m#@ify1990m#318.865#319.094
@@ -1644,7 +1644,7 @@
 1644	мгм	мгм	INTJ	_	_	_	_	_	words@dez1977f#@dez1977f#10.515#10.695
 1645	/	/	PUNCT	_	_	_	_	_	words@dez1977f#@dez1977f#10.695#10.875
 1646	/	/	PUNCT	_	_	_	_	_	words@dez1977f#@dez1977f#10.875#11.056
-1647	мгм	мгм	INTJ	_	_	_	_ _ words@dez1977f#@dez1977f#24.462#24.622
+1647	мгм	мгм	INTJ	_	_	_	_	_	words@dez1977f#@dez1977f#24.462#24.622
 1648	/	/	PUNCT	_	_	_	_	_	words@dez1977f#@dez1977f#24.622#24.782
 1649	/	/	PUNCT	_	_	_	_	_	words@dez1977f#@dez1977f#24.782#24.942
 1650	ага	ага	INTJ	_	_	_	_	_	words@dez1977f#@dez1977f#55.02#55.203
